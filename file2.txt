@@ -14,3 +14,4 @@ added a new line
 this is 3rd commit - but as a branch
 branch - step 1
 branch - step 2 (committ 2)
+branch 2 now 
